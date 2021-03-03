@@ -1,0 +1,152 @@
+Maquina: CT01
+IP ADDR: 10.0.6.201
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   1 580 349 427
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   935 229 933
+Pass: NetSafe@123
+
+__________________________________________________________________
+
+Maquina: CT02
+IP ADDR: 10.0.6.202
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   1 588 558 253
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   210 452 359
+Pass: NetSafe@123
+
+__________________________________________________________________
+
+Maquina: CT03
+IP ADDR: 10.0.6.203
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   1 587 139 111
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   526 020 436
+Pass: NetSafe@123
+
+__________________________________________________________________
+
+Maquina: CT04
+IP ADDR: 10.0.6.204
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   1 587 121 436
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   494 170 457
+Pass: NetSafe@123
+
+
+__________________________________________________________________
+
+Maquina: CT05
+IP ADDR: 10.0.6.205
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   1 588 870 511
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   616 730 904
+Pass: NetSafe@123
+__________________________________________________________________
+
+
+Maquina: CT06
+IP ADDR: 10.0.6.206
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   271 203 408
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   732 389 546
+Pass: NetSafe@123
+
+__________________________________________________________________
+
+Maquina: CT07
+IP ADDR: 10.0.6.207
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   1 587 175 602
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   278 709 089
+Pass: NetSafe@123
+
+__________________________________________________________________
+
+Maquina: CT08
+IP ADDR: 10.0.6.208
+Usuario: aluno
+Senha  : aluno
+
+Acessos Remotos - sem necessidade de instalação
+
+TeamViewer
+https://download.teamviewer.com/download/TeamViewerQS.exe
+ID:   617 429 594
+Pass: NetSafe@123
+
+AnyDesk
+https://anydesk.com/pt/downloads/windows
+ID:   515 010 268
+Pass: NetSafe@123
+
+__________________________________________________________________
